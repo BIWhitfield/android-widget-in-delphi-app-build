@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/12 13:45:49.000.451,=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/12 13:46:30.000.185,C:\Users\chris\Documents\Code\widget01\Unit1.pas=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/12 13:46:30.000.185,C:\Users\chris\Documents\Code\widget01\Unit1.fmx=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/07/12 13:46:49.000.638,C:\Users\chris\Documents\Code\widget01\androidwidgettest.dproj=C:\Users\chris\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/07/12 13:53:46.000.648,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 09:41:59.226,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 09:44:12.958,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 10:05:09.178,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 10:05:29.456,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 10:35:45.764,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 10:35:59.847,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 10:39:52.894,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 10:42:48.794,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 10:52:34.988,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 10:53:38.305,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 13:24:11.269,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 13:25:04.702,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 13:49:22.784,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 13:51:13.481,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 13:58:59.267,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 13:59:24.092,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 14:31:19.704,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 14:33:54.646,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 15:49:44.983,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 15:50:10.990,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 16:15:07.457,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 16:15:29.645,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 16:35:39.500,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 16:37:29.861,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+    <Transaction>2018/07/13 17:18:27.755,C:\Users\chris\Documents\Code\widget01\widget01.jar=</Transaction>
+    <Transaction>2018/07/13 17:19:45.783,=C:\Users\chris\Documents\Code\widget01\widget01.jar</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<POSX iOSSimulator="iPhone5"/>
+		<NoProfile Android="BH9033X04D"/>
+	</ActiveMobileDevice>
+</BorlandProject>

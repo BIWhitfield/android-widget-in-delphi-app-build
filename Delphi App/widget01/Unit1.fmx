@@ -1,0 +1,22 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 325
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Label1: TLabel
+    Align = Center
+    StyledSettings = [Family, Size, FontColor]
+    Size.Width = 239.000000000000000000
+    Size.Height = 23.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Family = 'Roboto'
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+    Text = 'Android Test Widget App 01'
+  end
+end

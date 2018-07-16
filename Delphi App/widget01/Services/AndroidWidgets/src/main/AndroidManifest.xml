@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uk.co.mybuzztechnologies.androidwidgettest">
+
+    <application>
+        <receiver android:name="uk.co.mybuzztechnologies.androidwidgettest.widget01">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget01_info" />
+        </receiver>
+    </application>
+
+</manifest>
